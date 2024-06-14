@@ -1,13 +1,12 @@
 @font-face {
     font-family: 'Handel Gothic D';
-    src: url('HandelGotD-Bold.eot');
-    src: url('HandelGotD-Bold.eot?#iefix') format('embedded-opentype'),
-        url('HandelGotD-Bold.woff2') format('woff2'),
-        url('HandelGotD-Bold.woff') format('woff'),
-        url('HandelGotD-Bold.ttf') format('truetype'),
-        url('HandelGotD-Bold.svg#HandelGotD-Bold') format('svg');
+    src: url('https://raw.githubusercontent.com/lakshay0825/HandelGotD/main/HandelGotD-Bold.eot');
+    src: url('https://raw.githubusercontent.com/lakshay0825/HandelGotD/main/HandelGotD-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://raw.githubusercontent.com/lakshay0825/HandelGotD/main/HandelGotD-Bold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakshay0825/HandelGotD/main/HandelGotD-Bold.woff') format('woff'),
+        url('https://raw.githubusercontent.com/lakshay0825/HandelGotD/main/HandelGotD-Bold.ttf') format('truetype'),
+        url('https://raw.githubusercontent.com/lakshay0825/HandelGotD/main/HandelGotD-Bold.svg#HandelGotD-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
-
